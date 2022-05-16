@@ -5,7 +5,7 @@ public class ContaBanco {
     private String dono;
     private float saldo;
     private boolean status;
-    // Métoos Personalizados
+    // Métodos Personalizados
     public void estadoAtual() {
         System.out.println("----------------------------");
         System.out.println("Conta: " + this.getNumConta());
