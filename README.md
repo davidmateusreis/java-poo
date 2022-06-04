@@ -1,2 +1,2 @@
 # java-poo
- POO com Curso em Vídeo
+ Programação Orientada a Objetos com Curso em Vídeo.
