@@ -1,2 +1,2 @@
 # java-poo
- Programação Orientada a Objetos com Curso em Vídeo.
+ Programação Orientada a Objetos em Java 8 com Curso em Vídeo.
